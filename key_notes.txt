@@ -1,0 +1,42 @@
+1. Integrated Development Environments (IDEs) -- Eclips tool
+2. Version control System:
+	Distributed VCS: Git/GitHub, Mercurial. - full copy including version will be available in local machin
+	Centralized VCS: CVS, Perforce, SVN(subversion).  - version maintained in central server
+Git is written in C language.
+
+DevOps: 
+
+waterfall : 
+1st software development life cycle model.
+lenear and sequential 
+--requirment gathering and analysis 
+-- design
+-- implement ( code and compile unit test , package build)
+-- test ( E2E testing )
+-- deploy ( deploy in prod server )
+-- maintanance
+limitation:
+--Not suitable for projects where the requirements are at a moderate to high risk of changing.
+-- not good model for complex and object oriented projects
+-- difficult to make code change, if requirement changes in testing phase.
+
+Agile :
+continuous design, build, testing
+
+WaterFall
+Analyze --> plan --> Desing --> Build --> Test --> Deploy
+ 
+Agile:
+Analysis --> plan --> ( continuous itertion of Design, Build, Test ) --> Deploy
+
+limitations:
+
+Dev Team wants change -- Operation team wants Stability
+
+DevOps ::
+
+Software development Startergy/Methodology which bridges the gap between dev side and ops side of the company.
+
+
+ 
+
